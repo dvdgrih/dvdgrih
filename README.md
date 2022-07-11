@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dvdgrih
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning in a university
-- 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me: just msg me!
 - Aimed to make suitable alternative for one of the biggest websites in the world.
 
